@@ -1,0 +1,6 @@
+Petar|Petrovic|IT11
+Mika|Mikic|IT12
+Laza|Lazic|IT22
+Mara|Maric|IT11
+Misa|Misic|IT11
+Luka Lukic|IT22
